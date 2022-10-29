@@ -10,7 +10,7 @@
   <h3>Utilisateurs et groupes </h3>
   <h3>SFTP : transfert des fichiers avec un serveur distant </h3>
   <h3>Gestionnaire de paquet </h3>
-<<<<<<< HEAD
+  <HEAD>
   <h2>Git </h2>
   <h3>Introduction </h3>
   <h3>Qu’est-ce que Git </h3>
@@ -40,7 +40,12 @@
   < h1 > Serveur d'administration  </ h1 >
   < h1 > Serveur géré  </ h1 >
 
+ < h1 > GIT< h1 >
+ < h1 >Introduction< h1 >
+ < h1 >Qu’est-ce que Git< h1 >
+ < h1 >Qu’est-ce que GitHub< h1 >
+ < h1 >Installation de Git< h1 >
 
->>>>>>> 042cdfae0df2a6b5fefe6ae433602497a46c2d11
+
 </body>
 </html>
