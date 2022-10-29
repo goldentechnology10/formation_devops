@@ -13,7 +13,7 @@
   <h2>shell scripting<h2>
   <h3>variables</h3>
   <h3>fonctions</h3>
-  <h2>PostgreSQL </h2>
+  <h2> PostgreSQL </h2>
   <h3> Installation et configuration </h3>
   <h3> Démarrer et arrêter l'instance </h3>
   <h3> Processus </h3>
@@ -25,6 +25,13 @@
   <h3> Rôles et groupes et droits </h3>
   <h3> Administration avec PgAdmin </h3>
   <h3> Sauvegarde et Restauration </h3>
+  < h2 >Oracle Weblogic  </ h2 >
+  < h1 > Introduction  </ h1 >
+  < h1 > Domaine	  </ h1 >
+  < h1 > Architecture  </ h1 >
+  < h1 > Serveur d'administration  </ h1 >
+  < h1 > Serveur géré  </ h1 >
+
 
 </body>
 </html>
