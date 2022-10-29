@@ -31,7 +31,11 @@
   < h1 > Architecture  </ h1 >
   < h1 > Serveur d'administration  </ h1 >
   < h1 > Serveur géré  </ h1 >
-
+  
+  <h2>Supervision</h2>
+  <h3>Introduction à la supervision</h3>
+  <h3>Installation et configuration</h3>
+  <h3>Supervision avec Grafana</h3>
 
 </body>
 </html>
