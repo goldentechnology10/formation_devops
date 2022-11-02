@@ -31,7 +31,12 @@
   < h1 > Architecture  </ h1 >
   < h1 > Serveur d'administration  </ h1 >
   < h1 > Serveur géré  </ h1 >
-
+ <h2> Control M </h2>
+  <h3> Introduction à Control M  </h3>
+  <h3> Introduction à la définition de l'environnement de production </h3>
+  <h3> Définir l'éxecution des jobs </h3>
+  <h3> Organisation et gestion des jobs dans des tableaux de planification </h3>
+  <h3> Créer et mettre à jour différents jobs à la fois </h3>
 
 </body>
 </html>
